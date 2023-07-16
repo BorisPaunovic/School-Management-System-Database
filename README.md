@@ -44,7 +44,7 @@ Contributions to the School Management System Database project are welcome. If y
     Fork the repository and create your branch: git checkout  
     Make your changes and ensure they follow the project's coding conventions.
     Test your changes thoroughly to ensure they don't introduce any issues.
-    Commit your changes: git commit -m 'Add your commit message'.
+    Commit your changes: git commit  
     Push to the branch: git push origin  
     Open a pull request, describing your changes and their purpose.
 
@@ -53,6 +53,6 @@ License
 The School Management System Database project is released under the MIT License. You are free to use, modify, and distribute the database schema and SQL scripts according to the terms of the license.
 Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out. You can contact the project maintainers by opening an issue on the repository or sending an email to your-email@example.com.
+If you have any questions, suggestions, or feedback, please feel free to reach out. You can contact the project maintainers by opening an issue on the repository or sending an email to boris.paunovic2111@gmail.com.
 
 Thank you for your interest in the School Management System Database project. We hope it proves to be a valuable resource for implementing the database component of your school management system!
