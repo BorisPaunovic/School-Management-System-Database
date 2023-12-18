@@ -44,7 +44,7 @@ Contributing
 
 Contributions to the School Management System Database project are welcome. If you would like to contribute, please follow these guidelines:
 
-    Fork the repository and create your branch: git checkout -b your-branch-name
+Fork the repository and create your branch: git checkout -b your-branch-name
     Make your changes and ensure they follow the project's coding conventions.
     Test your changes thoroughly to ensure they don't introduce any issues.
     Commit your changes: git commit -m "Your commit message"
