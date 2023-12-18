@@ -30,12 +30,12 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 Thank you for your interest in the School Management System Database project. We hope it proves to be a valuable resource for implementing the database component of your school management system!
 
   Execute the SQL scripts in the scripts folder in the following order:
-        1. create_tables.sql: Creates the necessary tables in the database.
-        2. create_indexes.sql: Creates indexes for optimized querying and performance.
-        3. create_constraints.sql: Sets up the necessary constraints for data integrity.
-        4. create_views.sql: Defines views for easier data retrieval and reporting.
-        5. create_procedures.sql: Creates stored procedures for various database operations.
-        6. create_triggers.sql: Defines triggers for enforcing business rules and automating actions.
+        - create_tables.sql: Creates the necessary tables in the database.
+        - create_indexes.sql: Creates indexes for optimized querying and performance.
+        - create_constraints.sql: Sets up the necessary constraints for data integrity.
+        - create_views.sql: Defines views for easier data retrieval and reporting.
+        - create_procedures.sql: Creates stored procedures for various database operations.
+        - create_triggers.sql: Defines triggers for enforcing business rules and automating actions.
 
 The database is now set up and ready to be used by the School Management System application.
 
