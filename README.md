@@ -25,11 +25,11 @@ To set up the School Management System Database on your MS SQL Server, follow th
 ```sql
 CREATE DATABASE SchoolManagementSystem;
 ```
-If you have any questions, suggestions, or feedback, please feel free to reach out. You can contact the project maintainers by opening an issue on the repository or sending an email to boris.paunovic2111@gmail.com.
+If you have any questions, suggestions, or feedback, please feel free to reach out. You can contact the project maintainers by opening an issue on the repository.
 
 Thank you for your interest in the School Management System Database project. We hope it proves to be a valuable resource for implementing the database component of your school management system!
 
-    Execute the SQL scripts in the scripts folder in the following order:
+  Execute the SQL scripts in the scripts folder in the following order
         create_tables.sql: Creates the necessary tables in the database.
         create_indexes.sql: Creates indexes for optimized querying and performance.
         create_constraints.sql: Sets up the necessary constraints for data integrity.
