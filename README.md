@@ -24,7 +24,7 @@ To set up the School Management System Database on your MS SQL Server, follow th
 
 ```sql
 CREATE DATABASE SchoolManagementSystem;
-
+```
 If you have any questions, suggestions, or feedback, please feel free to reach out. You can contact the project maintainers by opening an issue on the repository or sending an email to boris.paunovic2111@gmail.com.
 
 Thank you for your interest in the School Management System Database project. We hope it proves to be a valuable resource for implementing the database component of your school management system!
