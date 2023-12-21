@@ -1291,5 +1291,5 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 Thank you for your interest in the School Management System Database project. We hope it proves to be a valuable resource for implementing the database component of your school management system!
 
 
-Feel free to adjust it based on your preferences or specific project details.
+
 
