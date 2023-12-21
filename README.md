@@ -4,6 +4,11 @@ Welcome to the School Management System Database repository! This repository con
 
 ## Database Schema
 
+![SMS-DB-Diagram](https://github.com/BorisPaunovic/School-Management-System-Database/assets/119711363/bff84a11-141f-4838-adaf-6022f189c2fe)
+
+Figure 1 SMS Database Diagram
+
+
 The database schema consists of the following tables:
 
 - **Students:** Stores information about students, including their unique IDs, names, contact details, and other relevant details.
