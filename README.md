@@ -1265,7 +1265,7 @@ Execute the SQL scripts in the scripts folder in the following order:
 - create_constraints.sql: Sets up the necessary constraints for data integrity.
 - create_views.sql: Defines views for easier data retrieval and reporting.
 - create_procedures.sql: Creates stored procedures for various database operations.
-- create_triggers.sql: Defines triggers for enforcing business rules and automating actions.
+
 
 The database is now set up and ready to be used by the School Management System application.
 
